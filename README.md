@@ -173,8 +173,9 @@ http://127.0.0.1:5000
 
 ```
 <img src="home.png" width="600">
-```
+ <img width="899" height="263" alt="home" src="https://github.com/user-attachments/assets/7e58f02d-0994-4705-bea9-5bfd767d36e0" />
 
+```
 ---
 
 ### Mask Detected
