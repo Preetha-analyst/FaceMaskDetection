@@ -64,7 +64,8 @@ FaceMaskDetection/
 │   ├── style.css
 │   └── script.js
 │
-├── |── home.png
+├── screenshots/
+|   |── home.png
 │   ├── mask_detected.png
 │   ├── no_mask_detected.png
 │   └── dashboard.png
@@ -189,8 +190,7 @@ http://127.0.0.1:5000
 ```
 <img src="no_mask_detected.png" width="600">
 ```
-<img width="713" height="476" alt="no_mask_detected" src="https://github.com/user-attachments/assets/d432dc6b-72d0-475b-8faf-b6fa505e031a" />
-
+<img width="899" height="263" alt="home" src="https://github.com/user-attachments/assets/ac3a84bd-53bf-4d1e-a1e5-72a505c5aac4" />
 ---
 
 ### Flask Live Detection
