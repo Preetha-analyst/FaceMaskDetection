@@ -173,8 +173,8 @@ http://127.0.0.1:5000
 
 ```
 <img src="home.png" width="600">
-<img width="899" height="263" alt="home" src="https://github.com/user-attachments/assets/165bee60-ea27-4c44-ad99-5146b1e795a4" />
 ```
+<img width="899" height="263" alt="home" src="https://github.com/user-attachments/assets/ac3a84bd-53bf-4d1e-a1e5-72a505c5aac4" />
 ---
 
 ### Mask Detected
@@ -190,7 +190,8 @@ http://127.0.0.1:5000
 ```
 <img src="no_mask_detected.png" width="600">
 ```
-<img width="899" height="263" alt="home" src="https://github.com/user-attachments/assets/ac3a84bd-53bf-4d1e-a1e5-72a505c5aac4" />
+<img width="713" height="476" alt="no_mask_detected" src="https://github.com/user-attachments/assets/31e502c6-116c-418a-aabf-5def2442182b" />
+
 ---
 
 ### Flask Live Detection
