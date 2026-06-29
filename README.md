@@ -172,7 +172,7 @@ http://127.0.0.1:5000
 ### Home Dashboard
 
 ```
-<img src="screenshot/home.png" width="900">
+<img src="screenshots/home.png" width="900">
 ```
 
 ---
@@ -180,7 +180,7 @@ http://127.0.0.1:5000
 ### Mask Detected
 
 ```
-<img src="screenshot/mask_detected.png" width="900">
+<img src="screenshots/mask_detected.png" width="900">
 ```
 
 ---
@@ -188,7 +188,7 @@ http://127.0.0.1:5000
 ### No Mask Detected
 
 ```
-<img src="screenshot/no_mask_detected.png" width="900">
+<img src="screenshots/no_mask_detected.png" width="900">
 ```
 
 ---
@@ -196,7 +196,7 @@ http://127.0.0.1:5000
 ### Flask Live Detection
 
 ```
-<img src="screenshot/dashboard.png" width="900">
+<img src="screenshots/dashboard.png" width="900">
 ```
 
 ---
