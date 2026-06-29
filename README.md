@@ -172,7 +172,7 @@ http://127.0.0.1:5000
 
 ```
 <img src="home.png" width="600">
-
+<img width="899" height="263" alt="home" src="https://github.com/user-attachments/assets/165bee60-ea27-4c44-ad99-5146b1e795a4" />
 ```
 ---
 
@@ -181,7 +181,7 @@ http://127.0.0.1:5000
 ```
 <img src="mask_detected.png" width="600">
 ```
-
+<img width="694" height="479" alt="mask_detected" src="https://github.com/user-attachments/assets/f6b1cc0c-87bb-4e95-99ef-63e1611e012b" />
 ---
 
 ### No Mask Detected
@@ -189,6 +189,7 @@ http://127.0.0.1:5000
 ```
 <img src="no_mask_detected.png" width="600">
 ```
+<img width="713" height="476" alt="no_mask_detected" src="https://github.com/user-attachments/assets/d432dc6b-72d0-475b-8faf-b6fa505e031a" />
 
 ---
 
@@ -197,7 +198,7 @@ http://127.0.0.1:5000
 ```
 <img src="dashboard.png" width="600">
 ```
-
+<img width="476" height="376" alt="dashboard" src="https://github.com/user-attachments/assets/0001f00f-c8d4-4cbf-a000-4a4297dea58b" />
 ---
 
 ## 🔔 Alert System
